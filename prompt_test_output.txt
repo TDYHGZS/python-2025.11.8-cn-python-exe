@@ -1,0 +1,11 @@
+STDOUT:
+警告: 未找到readline或pyreadline3模块，命令历史和补全功能将不可用。
+建议在Windows上安装: pip install pyreadline3
+提示: 命令历史和补全功能当前不可用。
+欢迎使用增强版Python终端！输入 'help' 获取帮助，输入 'exit' 或 'quit' 退出。
+使用上下箭头浏览命令历史，Tab键补全命令和路径。
+功能: 命令历史(↑↓键)、命令补全(Tab键)、增强版目录列表、高危命令保护等
+配置文件位置: C:\Users\南军\AppData\Roaming\PyTerminal\config.ini
+[2025-11-09 10:50:13] 南军@DESKTOP-HOKSQQ9:..\Desktop\afs> 
+
+STDERR:
